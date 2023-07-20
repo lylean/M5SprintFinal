@@ -33,7 +33,7 @@ Requerimientos:
 
 - Inicio --> Se accesa a través del servlet Inicio.
 
---A partir de aqui la aplicación iniciada podra encontrar las opciones en la vista del navegador--
+--Apartir de aqui la aplicación iniciada podra encontrar las opciones en la vista del navegador--
 
 - Contacto -->  se encuentra en el navbar y lo llevará al formulario correspondiente despues de logearse.
   
