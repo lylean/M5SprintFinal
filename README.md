@@ -1,13 +1,17 @@
 # M5SprintFinal
 Sprint -Modulo  5
 --------------------------------------------ƸӜƷ-------------------------------------------------
+
 Nombre : Belén Araya Benitez /  Clase: Java-0056
+
 --------------------------------------------ƸӜƷ-------------------------------------------------
+
 Problematica planteada en el proyecto:
 La empresa no posee un sistema de información que le permita administrar toda la cantidad de
 información que se genera, ni controlar las actividades y el recurso humano.
 
 --------------------------------------------ƸӜƷ-------------------------------------------------
+
 Solucion:
 La solución planteada busca cubrir los procesos de negocio descritos y
 que proponga una mejora en la gestión, el control, la seguridad, y disponibilidad de información
@@ -23,6 +27,7 @@ se datos MySql, para la distribución y distribución de los procesos de negocio
 la empresa.
 
 --------------------------------------------ƸӜƷ-------------------------------------------------
+
 Requerimientos: 
 
 - Inicio --> Se accesa a través del servlet Inicio.
